@@ -1,0 +1,8 @@
+body {
+  background: url('Screenshot_2021-07-23-14-09-25-21.png') no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+}
+button {
+  background-color: #4CAF50;
+}
